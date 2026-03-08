@@ -53,18 +53,20 @@ impact critical economic sectors. Built with Python, Streamlit, and Google Gemin
 ```
 Global_Conflict_Analyzer/
 ├── dashboard/
-│   └── app.py              # Main Streamlit dashboard
+│   └── app.py                 # Main Streamlit dashboard
 ├── scripts/
-│   └── data_collection.py  # Data fetching script
+│   ├── data_collection.py     # Data fetching script
+│   ├── ai_model.py            # AI model logic
+│   ├── analysis.py            # Data analysis functions
+│   └── fix_csv.py             # CSV fixing utility
 ├── data/
-│   ├── oil_prices.csv      # WTI crude oil data
-│   ├── sp500_data.csv      # S&P 500 index data
-│   ├── chip_data.csv       # Semiconductor index
-│   └── conflict_news.csv   # News headlines
+│   ├── oil_prices.csv         # WTI crude oil data
+│   ├── sp500_data.csv         # S&P 500 index data
+│   ├── chip_data.csv          # Semiconductor index
+│   └── conflict_news.csv      # News headlines
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-```
 
 ---
 
