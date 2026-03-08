@@ -1,0 +1,12 @@
+libraries
+
+numpy
+yfinance
+plotly
+streamlit
+scikit-learn
+requests
+newsapi-python
+google-genai
+streamlit
+python-dotenv
