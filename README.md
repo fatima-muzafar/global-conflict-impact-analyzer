@@ -154,3 +154,20 @@ MIT License — feel free to use, modify and share.
 Built by **Fatima Muzafar Ali** — Computer System Engineering Student  
 🔗 GitHub:https://github.com/fatima-muzafar
 💼 LinkedIn: https://www.linkedin.com/in/fatima-muzafar-ali-900a172a0
+
+## 📸 Screenshots
+
+### 🏠 Main Dashboard
+![Main Dashboard](screenshots/screenshot1-overview.png)
+
+### 🛢 Oil Market Analysis
+![Oil Market](screenshots/screenshot2-oil.png)
+
+### 📈 Stock Markets
+![Stock Markets](screenshots/screenshot3-stocks.png)
+
+### 🚢 Supply Chain
+![Supply Chain](screenshots/screenshot4-supply.png)
+
+### 🧠 AI Analysis
+![AI Analysis](screenshots/screenshot5-ai.png)
